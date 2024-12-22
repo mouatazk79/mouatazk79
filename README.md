@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on [KLAA Stream](https://github.com/mouatazk79/KLAA-stream)
 
-- 🌱 I’m currently learning **Deep learning**
-
 - 👨‍💻 All of my projects are available at [https://github.com/mouatazk79](https://github.com/mouatazk79)
 
 - 📫 How to reach me **mouatazk79@gmail.com mouataz.klaa@univ-constantine2.dz**
